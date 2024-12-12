@@ -6,3 +6,4 @@
 |Modulation of Visual Responses by Behavioral State in Mouse Visual Cortex|2010|[link](https://www.sciencedirect.com/science/article/pii/S0896627310000590?via%3Dihub)|
 |Spontaneous behaviors drive multidimensional, brainwide activity|2019|[link](https://www.science.org/doi/10.1126/science.aav7893)|
 |Twitches, Blinks, and Fidgets: Important Generators of Ongoing Neural Activity|2018|[link](https://journals.sagepub.com/doi/10.1177/1073858418805427)|
+|EEG datasets for motor imagery brain–computer interface|2017|[link](https://academic.oup.com/gigascience/article/6/7/gix034/3796323)|
